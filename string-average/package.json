@@ -1,0 +1,14 @@
+{
+  "name": "string-average",
+  "version": "1.0.0",
+  "description": "You are given a string of numbers between 0-9. Find the average of these numbers and return it as a floored whole number (ie: no decimal places) written out as a string. Eg:",
+  "main": "string-average.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ralph Effting <ralfting@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
